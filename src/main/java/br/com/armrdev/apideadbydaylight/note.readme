@@ -1,0 +1,19 @@
+/*Identificador (ID): Código único (ex: the-trapper, the-nurse).
+Título / Nome de Jogo: Nome pelo qual é conhecido na partida (ex: "O Caçador", "A Enfermeira").
+Nome Real: Nome do personagem na lore (ex: "Evan MacMillan", "Sally Smithson").
+Poder Especial:
+Nome do poder (ex: "Armadilha de Urso").
+Descrição detalhada de como funciona a mecânica.
+        Ícone do poder.
+Arma Primária: Nome da arma usada nos ataques básicos (ex: "Cutelo de Açougueiro").
+Atributos de Movimento e Físicos:
+Velocidade Base: Em metros por segundo e porcentagem (ex: 4.6 m/s / 115%, ou 4.4 m/s / 110%).
+Raio de Terror: Distância base da música de perseguição (ex: 32 metros, 24 metros, ou variável).
+Estatura / Altura: Baixo, Médio ou Alto (influencia no campo de visão e visibilidade atrás de obstáculos).
+Dificuldade: Nível de aprendizado (Fácil, Moderado, Difícil, Muito Difícil).
+História / Lore: Origem do assassino e como foi atraído pela Entidade.
+        Capítulo / DLC: Pacote ao qual pertence.
+É Licenciado?: Sim ou Não.
+Vantagens Exclusivas: As 3 perks ensináveis do assassino.
+Lista de Add-ons: Complementos exclusivos do poder dele.
+Imagens: Retrato, corpo inteiro e ícone de poder.*/
