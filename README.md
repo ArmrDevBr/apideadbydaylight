@@ -122,7 +122,7 @@ A API inicializará e conectará automaticamente ao banco local SQLite (`dbd.db`
 - [x] Criação de todos os DTOs de Entrada (`RequestDTO`) e Saída (`ResponseDTO`)
 - [x] Tratamento Global de Erros com `@RestControllerAdvice`
 - [x] Implementação da Camada de **Services**
-- [ ] Implementação dos **Controllers** REST
+- [x] Implementação dos **Controllers** REST
 - [ ] Carga inicial de dados (Data Seeder / Migrations)
 - [ ] Documentação com Swagger / OpenAPI
 
