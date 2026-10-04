@@ -1,6 +1,6 @@
 package br.com.armrdev.apideadbydaylight.repository;
 
-import br.com.armrdev.apideadbydaylight.entity.Addon;
+import br.com.armrdev.apideadbydaylight.entity.Item;
 import br.com.armrdev.apideadbydaylight.entity.enums.ItemType;
 import br.com.armrdev.apideadbydaylight.entity.enums.Rarity;
 import org.springframework.data.jpa.repository.JpaRepository;
@@ -10,9 +10,8 @@ import java.util.List;
 import java.util.UUID;
 
 @Repository
-public interface AddonRepository extends JpaRepository<Addon, UUID> {
-    List<Addon> findByNameContainingIgnoreCase(String name);
-    List<Addon> findByKillerId(UUID killerId);
-    List<Addon> findByTargetItemType(ItemType targetItemType);
-    List<Addon> findByRarity(Rarity rarity);
+public interface ItemRepository extends JpaRepository<Item, UUID> {
+    List<Item> findByNameContainingIgnoreCase(String name);
+    List<Item> findByItemType(ItemType itemType);
+    List<Item> findByRarity(Rarity rarity);
 }

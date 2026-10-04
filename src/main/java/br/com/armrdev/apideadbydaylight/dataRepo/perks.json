@@ -1,0 +1,872 @@
+[
+  {
+    "nome": "Carne Escorregadia",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/IconPerks_slipperyMeat.png/revision/latest/scale-to-width-down/96?cb=20201105152240",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Todos"
+  },
+  {
+    "nome": "Conseguiremos",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8a/IconPerks_wellMakeIt.png/revision/latest/scale-to-width-down/96?cb=20160605205228",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Todos"
+  },
+  {
+    "nome": "Déjà Vu",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/89/IconPerks_dejaVu.png/revision/latest/scale-to-width-down/96?cb=20160605204905",
+    "descricao": "Unlocks potential in your Aura-reading ability: Paranoia paired with your horror of failure helps prepare you from repeating the same mistakes. The Auras of the 3 Geradores, who are currently in closest proximity to one another, are revealed to you at all times. Aumenta your Repair speed on those Generators by 4/5/6 Pontos de Progressão. If you are holding a Mapa, all Generators revealed by Déjà Vu are automatically added to it.",
+    "personagem": "Todos"
+  },
+  {
+    "nome": "Esperança",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/18/IconPerks_hope.png/revision/latest/scale-to-width-down/96?cb=20160605204928",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Todos"
+  },
+  {
+    "nome": "Frio na Espinha",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/57/IconPerks_spineChill.png/revision/latest/scale-to-width-down/96?cb=20160605205147",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Todos"
+  },
+  {
+    "nome": "Instinto do Saqueador",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/28/IconPerks_plunderersInstinct.png/revision/latest/scale-to-width-down/96?cb=20160605205031",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Todos"
+  },
+  {
+    "nome": "Isso Não Está Acontecendo",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/IconPerks_thisIsNotHappening.png/revision/latest/scale-to-width-down/96?cb=20160605205158",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Todos"
+  },
+  {
+    "nome": "Ninguém Fica para Trás",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b0/IconPerks_noOneLeftBehind.png/revision/latest/scale-to-width-down/96?cb=20160605205026",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Todos"
+  },
+  {
+    "nome": "Parentesco",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a8/IconPerks_kindred.png/revision/latest/scale-to-width-down/96?cb=20160819130530",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Todos"
+  },
+  {
+    "nome": "Pequena Caça",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/dc/IconPerks_smallGame.png/revision/latest/scale-to-width-down/96?cb=20210414100522",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Todos"
+  },
+  {
+    "nome": "Peso Leve",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/67/IconPerks_lightweight.png/revision/latest/scale-to-width-down/96?cb=20160605205008",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Todos"
+  },
+  {
+    "nome": "Premonição",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/39/IconPerks_premonition.png/revision/latest/scale-to-width-down/96?cb=20160605205043",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Todos"
+  },
+  {
+    "nome": "Resiliência",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ee/IconPerks_resilience.png/revision/latest/scale-to-width-down/96?cb=20160605205100",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Todos"
+  },
+  {
+    "nome": "Sentido Obscuro",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/92/IconPerks_darkSense.png/revision/latest/scale-to-width-down/96?cb=20160605204853",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Todos"
+  },
+  {
+    "nome": "Aumentar as Apostas",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/IconPerks_upTheAnte.png/revision/latest/scale-to-width-down/96?cb=20161210091356",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Ace"
+  },
+  {
+    "nome": "Mão Aberta",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/IconPerks_open-Handed.png/revision/latest/scale-to-width-down/96?cb=20161210091243",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Ace"
+  },
+  {
+    "nome": "Ás na Manga",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/24/IconPerks_aceInTheHole.png/revision/latest/scale-to-width-down/96?cb=20161208214510",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Ace"
+  },
+  {
+    "nome": "Cura Reativa",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/IconPerks_reactiveHealing.png/revision/latest/scale-to-width-down/96?cb=20220815051757",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Ada"
+  },
+  {
+    "nome": "Discrição",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fb/IconPerks_lowProfile.png/revision/latest/scale-to-width-down/96?cb=20220815051740",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Ada"
+  },
+  {
+    "nome": "Escuta",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/23/IconPerks_wiretap.png/revision/latest/scale-to-width-down/96?cb=20220815051906",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Ada"
+  },
+  {
+    "nome": "Autodidata",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/96/IconPerks_autodidact.png/revision/latest/scale-to-width-down/96?cb=20180828173011",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Adam"
+  },
+  {
+    "nome": "Distração",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/IconPerks_diversion.png/revision/latest/scale-to-width-down/96?cb=20180828172956",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Adam"
+  },
+  {
+    "nome": "Libertação",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7e/IconPerks_deliverance.png/revision/latest/scale-to-width-down/96?cb=20180828173004",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Adam"
+  },
+  {
+    "nome": "Ilusão Espelhada",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/IconPerks_mirroredIllusion.png/revision/latest/scale-to-width-down/96?cb=20240514174203",
+    "descricao": "Um feitiço conhecido se tornou diferente nesta paisagem corrompida. Após reparar Geradores por um total de 50 %, Ilusão Espelhada se ativa: Pressione o botão de Habilidade Ativa enquanto próximo a um Baú, Portão de Saída, Gerador ou Totem para surgir uma Ilusão Estática que dura por 100/110/120 segundos. Ilusão Espelhada se desativa após ser ativado com sucesso. \"Fica... paradinho... Perfeito!\" — Baermar",
+    "personagem": "Aestri"
+  },
+  {
+    "nome": "Inspiração de Bardo",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d8/IconPerks_bardicInspiration.png/revision/latest/scale-to-width-down/96?cb=20240514174158",
+    "descricao": "É hora de fazer um espetáculo para o seu público. Você vai botar para quebrar ou vai ficar com medo do palco? Pressione o botão de Habilidade Ativa enquanto está em pé e imóvel para entrar na interação de Performance que dura 15 segundos e também fortalece outros sobreviventes dentro de 16 metros de sua localização. O efeito fortalecedor depende do resultado da sua rolagem de um d20 e dura por 60 segundos após completar a Performance: 1: Grita, mas sem notificar o Assassino. 2 - 10: Faz com que Testes de Perícia concedam um bônus de +1 % de Progressão. 11 - 19: Faz com que Testes de Perícia concedam um bônus de +2 % de Progressão. 20: Faz com que Testes de Perícia concedam um bônus de +3 % de Progressão. Inspiração de Bardo tem um tempo de recarga de 90/75/60 segundos após completar a Performance ou cancelar a ação. \"Ouçam bem! Estou prestes a salvar suas vidas!\" — Aestri",
+    "personagem": "Aestri"
+  },
+  {
+    "nome": "Visão Estática",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b6/IconPerks_stillSight.png/revision/latest/scale-to-width-down/96?cb=20240514174204",
+    "descricao": "Uma mente concentrada e um temperamento calmo sempre descobrirão como fugir. Após permanecer imóvel por 6/5/4 segundos, Visão Estática se ativa: As Auras do Assassino, assim como quaisquer Baús e Geradores dentro de 18 metros de sua localização são reveladas para você até você se começar a mover novamente. \"Inspire. Expire. Agora, abra os olhos.\" — Baermar",
+    "personagem": "Aestri"
+  },
+  {
+    "nome": "Bênção: Iluminação",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8c/IconPerks_boonIllumination.png/revision/latest/scale-to-width-down/96?cb=20240109231534",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Alan"
+  },
+  {
+    "nome": "Campeão da Luz",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/IconPerks_championOfLight.png/revision/latest/scale-to-width-down/96?cb=20240109231532",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Alan"
+  },
+  {
+    "nome": "Prazo Final",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_deadline.png/revision/latest/scale-to-width-down/96?cb=20240109231533",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Alan"
+  },
+  {
+    "nome": "Apertando os Cintos",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/74/IconPerks_buckleUp.png/revision/latest/scale-to-width-down/96?cb=20190402180455",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Ash"
+  },
+  {
+    "nome": "Bate e Volta",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/IconPerks_flip-Flop.png/revision/latest/scale-to-width-down/96?cb=20190402180450",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Ash"
+  },
+  {
+    "nome": "Fervor Humano",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/IconPerks_mettleOfMan.png/revision/latest/scale-to-width-down/96?cb=20190402180459",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Ash"
+  },
+  {
+    "nome": "Deixado para Trás",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_leftBehind.png/revision/latest/scale-to-width-down/96?cb=20170308184910",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Bill"
+  },
+  {
+    "nome": "Inquebrável",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4a/IconPerks_unbreakable.png/revision/latest/scale-to-width-down/96?cb=20170308184922",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Bill"
+  },
+  {
+    "nome": "Tempo Precioso",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/IconPerks_borrowedTime.png/revision/latest/scale-to-width-down/96?cb=20170308184730",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Bill"
+  },
+  {
+    "nome": "Aliança Reprimida",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/IconPerks_repressedAlliance.png/revision/latest/scale-to-width-down/96?cb=20200526201745",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Cheryl"
+  },
+  {
+    "nome": "Pacto de Sangue",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/IconPerks_bloodPact.png/revision/latest/scale-to-width-down/96?cb=20200526201448",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Cheryl"
+  },
+  {
+    "nome": "Proteção de Alma",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a5/IconPerks_soulGuard.png/revision/latest/scale-to-width-down/96?cb=20200526201807",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Cheryl"
+  },
+  {
+    "nome": "Autocura",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b2/IconPerks_self-Care.png/revision/latest/scale-to-width-down/96?cb=20160605205112",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Claudette"
+  },
+  {
+    "nome": "Conhecimento Botânico",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1e/IconPerks_botanyKnowledge.png/revision/latest/scale-to-width-down/96?cb=20160605204836",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Claudette"
+  },
+  {
+    "nome": "Empatia",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ae/IconPerks_empathy.png/revision/latest/scale-to-width-down/96?cb=20160605204916",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Claudette"
+  },
+  {
+    "nome": "Duro na Queda",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/75/IconPerks_deadHard.png/revision/latest/scale-to-width-down/96?cb=20170727160956",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "David"
+  },
+  {
+    "nome": "Nós Vamos Viver para Sempre",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b8/IconPerks_wereGonnaLiveForever.png/revision/latest/scale-to-width-down/96?cb=20170727160948",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "David"
+  },
+  {
+    "nome": "Sem Incômodos",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/IconPerks_noMither.png/revision/latest/scale-to-width-down/96?cb=20170727161003",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "David"
+  },
+  {
+    "nome": "Intuição do Detetive",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7b/IconPerks_detectivesHunch.png/revision/latest/scale-to-width-down/96?cb=20180123224231",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "David"
+  },
+  {
+    "nome": "Tenacidade",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9d/IconPerks_tenacity.png/revision/latest/scale-to-width-down/96?cb=20180123224404",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "David"
+  },
+  {
+    "nome": "Tocaia",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cd/IconPerks_stakeOut.png/revision/latest/scale-to-width-down/96?cb=20180123224338",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "David"
+  },
+  {
+    "nome": "Líder",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/IconPerks_leader.png/revision/latest/scale-to-width-down/96?cb=20160605204957",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Dwight"
+  },
+  {
+    "nome": "Prove-se",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/IconPerks_proveThyself.png/revision/latest/scale-to-width-down/96?cb=20160605205049",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Dwight"
+  },
+  {
+    "nome": "Vínculo",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a0/IconPerks_bond.png/revision/latest/scale-to-width-down/96?cb=20160605204830",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Dwight"
+  },
+  {
+    "nome": "Armadilha Química",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9a/IconPerks_chemicalTrap.png/revision/latest/scale-to-width-down/96?cb=20230808160213",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Ellen"
+  },
+  {
+    "nome": "Estrela da Sorte",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/08/IconPerks_luckyStar.png/revision/latest/scale-to-width-down/96?cb=20230808160212",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Ellen"
+  },
+  {
+    "nome": "Pés Leves",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e5/IconPerks_light-Footed.png/revision/latest/scale-to-width-down/96?cb=20230808160213",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Ellen"
+  },
+  {
+    "nome": "Artimanha",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/eb/IconPerks_deception.png/revision/latest/scale-to-width-down/96?cb=20201112095028",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Élodie"
+  },
+  {
+    "nome": "Avaliação",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c1/IconPerks_appraisal.png/revision/latest/scale-to-width-down/96?cb=20201112095004",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Élodie"
+  },
+  {
+    "nome": "Disputa de Forças",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4b/IconPerks_powerStruggle.png/revision/latest/scale-to-width-down/96?cb=20201112095050",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Élodie"
+  },
+  {
+    "nome": "Construído para Durar",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/IconPerks_builtToLast.png/revision/latest/scale-to-width-down/96?cb=20200819114105",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Felix"
+  },
+  {
+    "nome": "Medidas Desesperadas",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/IconPerks_desperateMeasures.png/revision/latest/scale-to-width-down/96?cb=20200819113949",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Felix"
+  },
+  {
+    "nome": "Visionário",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7c/IconPerks_visionary.png/revision/latest/scale-to-width-down/96?cb=20200819113857",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Felix"
+  },
+  {
+    "nome": "Agilidade",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cc/IconPerks_lithe.png/revision/latest/scale-to-width-down/96?cb=20170511153301",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Feng"
+  },
+  {
+    "nome": "Em Alerta",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/71/IconPerks_alert.png/revision/latest/scale-to-width-down/96?cb=20170511153335",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Feng"
+  },
+  {
+    "nome": "Técnico",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/IconPerks_technician.png/revision/latest/scale-to-width-down/96?cb=20170511153221",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Feng"
+  },
+  {
+    "nome": "Feito para Isso",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c0/IconPerks_madeForThis.png/revision/latest/scale-to-width-down/96?cb=20230524205724",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Gabriel"
+  },
+  {
+    "nome": "Solução de Problemas",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/IconPerks_troubleshooter.png/revision/latest/scale-to-width-down/96?cb=20230524205359",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Gabriel"
+  },
+  {
+    "nome": "Sucateiro",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPerks_scavenger.png/revision/latest/scale-to-width-down/96?cb=20230524205539",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Gabriel"
+  },
+  {
+    "nome": "Foco Interno",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7e/IconPerks_innerFocus.png/revision/latest/scale-to-width-down/96?cb=20220518112819",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Haddie"
+  },
+  {
+    "nome": "Manifesto Residual",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d0/IconPerks_residualManifest.png/revision/latest/scale-to-width-down/96?cb=20220518112819",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Haddie"
+  },
+  {
+    "nome": "Zelosa ao Extremo",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/99/IconPerks_overzealous.png/revision/latest/scale-to-width-down/96?cb=20220518112819",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Haddie"
+  },
+  {
+    "nome": "Espírito Calmo",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6c/IconPerks_calmSpirit.png/revision/latest/scale-to-width-down/96?cb=20160605204847",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Jake"
+  },
+  {
+    "nome": "Sabotador",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0e/IconPerks_saboteur.png/revision/latest/scale-to-width-down/96?cb=20200220105714",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Jake"
+  },
+  {
+    "nome": "Vontade de Ferro",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/IconPerks_ironWill.png/revision/latest/scale-to-width-down/96?cb=20160605204945",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Jake"
+  },
+  {
+    "nome": "De Cabeça",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cb/IconPerks_headOn.png/revision/latest/scale-to-width-down/96?cb=20190308175420",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Jane"
+  },
+  {
+    "nome": "Firmeza",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/IconPerks_poised.png/revision/latest/scale-to-width-down/96?cb=20190308175429",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Jane"
+  },
+  {
+    "nome": "Solidariedade",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9e/IconPerks_solidarity.png/revision/latest/scale-to-width-down/96?cb=20190308175435",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Jane"
+  },
+  {
+    "nome": "Cuidados",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/IconPerks_aftercare.png/revision/latest/scale-to-width-down/96?cb=20181128100931",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Jeff"
+  },
+  {
+    "nome": "Quebrar",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6c/IconPerks_breakdown.png/revision/latest/scale-to-width-down/96?cb=20181128100926",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Jeff"
+  },
+  {
+    "nome": "Contraforça",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d1/IconPerks_counterforce.png/revision/latest/scale-to-width-down/96?cb=20210526103441",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Jill"
+  },
+  {
+    "nome": "Mina Explosiva",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_blastMine.png/revision/latest/scale-to-width-down/96?cb=20210526102812",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Jill"
+  },
+  {
+    "nome": "Ressurgimento",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f3/IconPerks_resurgence.png/revision/latest/scale-to-width-down/96?cb=20210526103300",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Jill"
+  },
+  {
+    "nome": "Ação Corretiva",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4f/IconPerks_correctiveAction.png/revision/latest/scale-to-width-down/96?cb=20240918105401",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Jonah"
+  },
+  {
+    "nome": "Bênção: Exponencial",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/76/IconPerks_boonExponential.png/revision/latest/scale-to-width-down/96?cb=20211109175033",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Jonah"
+  },
+  {
+    "nome": "Superar",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/82/IconPerks_overcome.png/revision/latest/scale-to-width-down/96?cb=20211109180747",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Jonah"
+  },
+  {
+    "nome": "Dance Comigo",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/17/IconPerks_danceWithMe.png/revision/latest/scale-to-width-down/96?cb=20180529195003",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Kate"
+  },
+  {
+    "nome": "Janelas de Oportunidades",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/17/IconPerks_windowsOfOpportunity.png/revision/latest/scale-to-width-down/96?cb=20180529195008",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Kate"
+  },
+  {
+    "nome": "Superação",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/IconPerks_boilOver.png/revision/latest/scale-to-width-down/96?cb=20180529195012",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Kate"
+  },
+  {
+    "nome": "Enrijecido",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/IconPerks_hardened.png/revision/latest/scale-to-width-down/96?cb=20240625161545",
+    "descricao": "Viva o suficiente, e a sobrevivência correrá em suas veias. Após abrir um Baú e abençoar ou purificar um Totem, Enrijecido se ativa: Suprime a vontade de gritar por qualquer causa e, em vez disso, faz com que a Aura do Assassino seja revelada para você por 3/4/5 segundo(s). \"Melhor não fazer barulho. Aquela coisa ainda está por aí.\" — Lara Croft",
+    "personagem": "Lara"
+  },
+  {
+    "nome": "Especialista",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ae/IconPerks_specialist.png/revision/latest/scale-to-width-down/96?cb=20240625161548",
+    "descricao": "Aventura. Exploração. Escavação. Você está no seu território. Sempre que você abrir ou vasculhar um Baú, Especialista ganha +1 Ponto de Progressão, até um máximo de 3 Pontos de Progressão: Ter sucesso em um Ótimo Teste de Perícia de Reparo enquanto repara um Gerador consume todos os Pontos de Progresso. Reduz permanentemente as Cargas de Reparo necessárias daquele Gerador em 2/3/4 Cargas por Ponto de Progressão, até um máximo de 6/9/12 Cargas. \"Ora, ora. Isso não parece familiar?\" — Lara Croft",
+    "personagem": "Lara"
+  },
+  {
+    "nome": "Finesse",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fc/IconPerks_finesse.png/revision/latest/scale-to-width-down/96?cb=20240625161544",
+    "descricao": "A iminência do perigo pode levar qualquer criatura a reforçar sua determinação. Sempre que você estiver saudável, Finesse se ativa: Aumenta sua velocidade de Pulo em +20 %. Finesse tem um tempo de recarga de 40/35/30 segundo(s) após realizar um Pulo Rápido. \"Só preciso me esforçar um pouco mais.\" — Lara Croft",
+    "personagem": "Lara"
+  },
+  {
+    "nome": "Ataque Decisivo",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ee/IconPerks_decisiveStrike.png/revision/latest/scale-to-width-down/96?cb=20161023112852",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Laurie"
+  },
+  {
+    "nome": "Objeto de Obsessão",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/IconPerks_objectOfObsession.png/revision/latest/scale-to-width-down/96?cb=20161023112952",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Laurie"
+  },
+  {
+    "nome": "Sobrevivente Único",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8e/IconPerks_soleSurvivor.png/revision/latest/scale-to-width-down/96?cb=20161023113045",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Laurie"
+  },
+  {
+    "nome": "Espírito de Recruta",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/IconPerks_rookieSpirit.png/revision/latest/scale-to-width-down/96?cb=20210526103548",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Leon"
+  },
+  {
+    "nome": "Granada de Luz",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/db/IconPerks_flashbang.png/revision/latest/scale-to-width-down/96?cb=20210526102947",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Leon"
+  },
+  {
+    "nome": "Matar no Peito",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a5/IconPerks_biteTheBullet.png/revision/latest/scale-to-width-down/96?cb=20210526102647",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Leon"
+  },
+  {
+    "nome": "Adrenalina",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/IconPerks_adrenaline.png/revision/latest/scale-to-width-down/96?cb=20160605204801",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Meg"
+  },
+  {
+    "nome": "Arrancada Explosiva",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e4/IconPerks_sprintBurst.png/revision/latest/scale-to-width-down/96?cb=20160605205153",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Meg"
+  },
+  {
+    "nome": "Rápida e Silenciosa",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/14/IconPerks_quickAndQuiet.png/revision/latest/scale-to-width-down/96?cb=20160605205055",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Meg"
+  },
+  {
+    "nome": "Bênção: Círculo Curativo",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/54/IconPerks_boonCircleOfHealing.png/revision/latest/scale-to-width-down/96?cb=20210929054308",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Mikaela"
+  },
+  {
+    "nome": "Bênção: Passo Sombrio",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/IconPerks_boonShadowStep.png/revision/latest/scale-to-width-down/96?cb=20210929054304",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Mikaela"
+  },
+  {
+    "nome": "Clarividência",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/IconPerks_clairvoyance.png/revision/latest/scale-to-width-down/96?cb=20210929054440",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Mikaela"
+  },
+  {
+    "nome": "Força Interior",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/47/IconPerks_innerStrength.png/revision/latest/scale-to-width-down/96?cb=20190903175147",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Nancy"
+  },
+  {
+    "nome": "Ideia Fixa",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7c/IconPerks_fixated.png/revision/latest/scale-to-width-down/96?cb=20190903175127",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Nancy"
+  },
+  {
+    "nome": "Melhor Juntos",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/IconPerks_betterTogether.png/revision/latest/scale-to-width-down/96?cb=20190903175013",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Nancy"
+  },
+  {
+    "nome": "Conhecimento Urbano",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/ff/IconPerks_streetwise.png/revision/latest/scale-to-width-down/96?cb=20160821134155",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Nea"
+  },
+  {
+    "nome": "Evasão Urbana",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/IconPerks_urbanEvasion.png/revision/latest/scale-to-width-down/96?cb=20160821134257",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Nea"
+  },
+  {
+    "nome": "Queda Equilibrada",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5e/IconPerks_balancedLanding.png/revision/latest/scale-to-width-down/96?cb=20160821133918",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Nea"
+  },
+  {
+    "nome": "Dramaturgia",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/85/IconPerks_dramaturgy.png/revision/latest/scale-to-width-down/96?cb=20230705160003",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Nicolas"
+  },
+  {
+    "nome": "Parceiro de Cena",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/IconPerks_scenePartner.png/revision/latest/scale-to-width-down/96?cb=20230705160003",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Nicolas"
+  },
+  {
+    "nome": "Reviravolta",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/IconPerks_plotTwist.png/revision/latest/scale-to-width-down/96?cb=20230705160003",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Nicolas"
+  },
+  {
+    "nome": "Acorde!",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fd/IconPerks_wakeUp.png/revision/latest/scale-to-width-down/96?cb=20171026230520",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Quentin"
+  },
+  {
+    "nome": "Farmácia",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f1/IconPerks_pharmacy.png/revision/latest/scale-to-width-down/96?cb=20171026230450",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Quentin"
+  },
+  {
+    "nome": "Vigília",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/46/IconPerks_vigil.png/revision/latest/scale-to-width-down/96?cb=20171026230511",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Quentin"
+  },
+  {
+    "nome": "Hiperfoco",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/IconPerks_hyperfocus.png/revision/latest/scale-to-width-down/96?cb=20220815051721",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Rebecca"
+  },
+  {
+    "nome": "Novinhos em Folha",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/IconPerks_betterThanNew.png/revision/latest/scale-to-width-down/96?cb=20220815051705",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Rebecca"
+  },
+  {
+    "nome": "Reconforto",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5b/IconPerks_reassurance.png/revision/latest/scale-to-width-down/96?cb=20220815051841",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Rebecca"
+  },
+  {
+    "nome": "Disparada Sangrenta",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2c/IconPerks_bloodRush.png/revision/latest/scale-to-width-down/96?cb=20230218135314",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Renato"
+  },
+  {
+    "nome": "Jogador Tático",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e8/IconPerks_backgroundPlayer.png/revision/latest/scale-to-width-down/96?cb=20230218135313",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Renato"
+  },
+  {
+    "nome": "Trabalho em Equipe: Furtividade Coletiva",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a0/IconPerks_teamworkCollectiveStealth.png/revision/latest/scale-to-width-down/96?cb=20230218135318",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Renato"
+  },
+  {
+    "nome": "Força nas Sombras",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e2/IconPerks_strengthInShadows.png/revision/latest/scale-to-width-down/96?cb=20240220182529",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Sable"
+  },
+  {
+    "nome": "Invocação: Aranhas Tecelãs",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/IconPerks_invocationWeavingSpiders.png/revision/latest/scale-to-width-down/96?cb=20240220182529",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Sable"
+  },
+  {
+    "nome": "Perversidade",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8f/IconPerks_wicked.png/revision/latest/scale-to-width-down/96?cb=20240220182530",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Sable"
+  },
+  {
+    "nome": "Babá",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/db/IconPerks_babysitter.png/revision/latest/scale-to-width-down/96?cb=20190903174955",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Steve"
+  },
+  {
+    "nome": "Camaradagem",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1d/IconPerks_camaraderie.png/revision/latest/scale-to-width-down/96?cb=20190903175027",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Steve"
+  },
+  {
+    "nome": "Segundo Fôlego",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/IconPerks_secondWind.png/revision/latest/scale-to-width-down/96?cb=20190903175238",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Steve"
+  },
+  {
+    "nome": "Competição Amigável",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4c/IconPerks_friendlyCompetition.png/revision/latest/scale-to-width-down/96?cb=20230218135316",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Thalita"
+  },
+  {
+    "nome": "Sem Restrições",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/IconPerks_cutLoose.png/revision/latest/scale-to-width-down/96?cb=20230218135315",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Thalita"
+  },
+  {
+    "nome": "Trabalho em Equipe: Poder de Dois",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/IconPerks_teamworkPowerOfTwo.png/revision/latest/scale-to-width-down/96?cb=20230218135319",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Thalita"
+  },
+  {
+    "nome": "Exultação",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/22/IconPerks_Exultation.png/revision/latest/scale-to-width-down/96?cb=20240806171416",
+    "descricao": "Esta descrição é baseada nas mudanças apresentadas na próxima Atualização: 8.2.0 A sorte favorece os corajosos, mesmo nos cantos mais sombrios da existência. Atordoar o Assassino com uma Barricada melhora a Raridade do Item que estiver segurando para o próximo nível: Recarrega o Item por +25 %. A Raridade melhorada não é mantida no fim da Partida. Exultação tem um tempo de recarga de 40/35/30 segundos. \"Você não me levará hoje!\" — Trevor",
+    "personagem": "Trevor"
+  },
+  {
+    "nome": "Momento de Glória",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/98/IconPerks_MomentOfGlory.png/revision/latest/scale-to-width-down/96?cb=20240806171421",
+    "descricao": "Esta descrição é baseada nas mudanças apresentadas na próxima Atualização: 8.2.0 Um herói sempre deve ter uma chance de retornar. Após realizar a Ação de Destrancar ou Vasculhar em Baús um total de 2 vezes, Momento de Glória se ativa: Ao ficar ferido, você instantaneamente sofre do Efeito do Estado Quebrado. Você é automaticamente curado em 1 Estado de Saúde após 80/70/60 segundos. Este efeito é cancelado prematuramente caso entre no Estado Morrendo. Momento de Glória não ativa caso você já esteja sofrendo do Efeito do Estado Quebrado. Momento de Glória se desativa após te curar. \"Nunca perca a esperança de um amanhã melhor.\" — Trevor",
+    "personagem": "Trevor"
+  },
+  {
+    "nome": "Olhos de Belmont",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/25/IconPerks_EyesOfBelmont.png/revision/latest/scale-to-width-down/96?cb=20240806171417",
+    "descricao": "Esta descrição é baseada nas mudanças apresentadas na próxima Atualização: 8.2.0 Um histórico de caça aos vampiros imbuiu a linhagem com certas habilidades. Toda vez que um Gerador é concluído, a Aura do Assassino é revelada para você por 1/2/3 segundos. Estende a duração de todas as instâncias da Aura do Assassino sendo reveladas para você por +2 segundos. Olhos de Belmont se beneficia do próprio efeito. \"Ha! Seu segredo foi relevado!\" — Trevor",
+    "personagem": "Trevor"
+  },
+  {
+    "nome": "Energia Potencial",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/IconPerks_potentialEnergy.png/revision/latest/scale-to-width-down/96?cb=20221102143127",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Vittorio"
+  },
+  {
+    "nome": "Gambito Rápido",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/IconPerks_quickGambit.png/revision/latest/scale-to-width-down/96?cb=20221102143123",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Vittorio"
+  },
+  {
+    "nome": "Sabedoria da Névoa",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/90/IconPerks_fogwise.png/revision/latest/scale-to-width-down/96?cb=20221102143122",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Vittorio"
+  },
+  {
+    "nome": "Bênção: Teoria das Trevas",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/60/IconPerks_boonDarkTheory.png/revision/latest/scale-to-width-down/96?cb=20220216115947",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Yoichi"
+  },
+  {
+    "nome": "Ligação Empática",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/14/IconPerks_empathicConnection.png/revision/latest/scale-to-width-down/96?cb=20220216115951",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Yoichi"
+  },
+  {
+    "nome": "Orientação Paterna",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/46/IconPerks_parentalGuidance.png/revision/latest/scale-to-width-down/96?cb=20220216120019",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Yoichi"
+  },
+  {
+    "nome": "Custe o Que Custar",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_ptbr_gamepedia/images/7/79/IconPerks_anyMeansNecessary.png/revision/latest/scale-to-width-down/96?cb=20191119180632",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Yui"
+  },
+  {
+    "nome": "Fuga",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_ptbr_gamepedia/images/d/d0/IconPerks_breakout.png/revision/latest/scale-to-width-down/96?cb=20191119180654",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Yui"
+  },
+  {
+    "nome": "Golpe de Sorte",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_ptbr_gamepedia/images/a/a7/IconPerks_luckyBreak.png/revision/latest/scale-to-width-down/96?cb=20191119180708",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Yui"
+  },
+  {
+    "nome": "Autopreservação",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/43/IconPerks_self-Preservation.png/revision/latest/scale-to-width-down/96?cb=20210302172351",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Yun-Jin"
+  },
+  {
+    "nome": "Fama Acelerada",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/75/IconPerks_fastTrack.png/revision/latest/scale-to-width-down/96?cb=20210302172243",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Yun-Jin"
+  },
+  {
+    "nome": "Hit de Sucesso",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e0/IconPerks_smashHit.png/revision/latest/scale-to-width-down/96?cb=20210302172407",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Yun-Jin"
+  },
+  {
+    "nome": "Alarme Falso",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_redHerring.png/revision/latest/scale-to-width-down/96?cb=20200218172728",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Zarina"
+  },
+  {
+    "nome": "Extraoficialmente",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9e/IconPerks_offTheRecord.png/revision/latest/scale-to-width-down/96?cb=20200218172747",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Zarina"
+  },
+  {
+    "nome": "Pelo Povo",
+    "icone": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/IconPerks_forThePeople.png/revision/latest/scale-to-width-down/96?cb=20200218172919",
+    "descricao": "Unable to retrieve the Vantagem description or unable to display it. You can add it at Datatable/Loadout. Otherwise Please contact Jouki",
+    "personagem": "Zarina"
+  }
+]

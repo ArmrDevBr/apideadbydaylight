@@ -1,5 +1,6 @@
 package br.com.armrdev.apideadbydaylight.entity;
 
+import br.com.armrdev.apideadbydaylight.entity.enums.ItemType;
 import br.com.armrdev.apideadbydaylight.entity.enums.Rarity;
 import jakarta.persistence.*;
 import lombok.Data;
@@ -27,11 +28,12 @@ public class Addon {
 
     private String iconUrl;
 
-    // Se for complemento de poder de Assassino
+    // Se for complemento de poder de Assassino (ex: Nurse, Blight, Trapper)
     @ManyToOne
     @JoinColumn(name = "killer_id", nullable = true)
     private Killer killer;
 
-    // Se for complemento de item de Sobrevivente (ex: "Kit Médico", "Lanterna", "Caixa de Ferramentas")
-    private String targetItem;
+    // Se for complemento para um tipo de item de sobrevivente (ex: MED_KIT, TOOLBOX, FLASHLIGHT)
+    @Enumerated(EnumType.STRING)
+    private ItemType targetItemType;
 }
